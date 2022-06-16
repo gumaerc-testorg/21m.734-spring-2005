@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Photographs of the designs students prepared for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery

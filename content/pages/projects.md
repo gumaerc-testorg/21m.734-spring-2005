@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This resource lists the plays from which assignments will be chosen by
+  the students.  It also provides instructions for reading the plays and preparing
+  design projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section contains course description, objectives, prerequisites,
+  tutorials, and the basis for grades essential for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
