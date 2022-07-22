@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Photographs of the designs students prepared for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: ceff25a8-cad9-3666-406f-11675e80a02b
 ---
@@ -10,7 +13,7 @@ In a design course like this, there are no "right" or "wrong" answers to a proje
 
 All images courtesy of Professor William Fregosi. Used with permission. Student work by J. Hinel and J. Ornstein was retained from the Spring 2003 version of the course.[  
 ](/ans7870/21m/21m.734/s05/imagegallery/12.html)
-{{< image-gallery id="ceff25a8-cad9-3666-406f-11675e80a02b_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21m-734-design-for-the-theater-scenery-spring-2005/" >}}
+{{< image-gallery id="ceff25a8-cad9-3666-406f-11675e80a02b_nanogallery2" baseUrl="/courses/21m-734-design-for-the-theater-scenery-spring-2005/" >}}
 {{< image-gallery-item href="2295bd4ddc9ab602eb3ec0f6b8756516_1.jpg" data-ngdesc="Design by Kenneth Roraback 06 for August Strindbergs THE FATHER. Model for a production to take place in Simmons Hall. Image courtesy of Professor William Fregosi." text="Design by Kenneth Roraback 06 for August Strindbergs THE FATHER. Model for a production to take place in Simmons Hall." >}}
 {{< image-gallery-item href="3ff539ed53725c2a047298ee430a424b_2.jpg" data-ngdesc="Designs by Gabrielle (Brie) Frame 05 for Bela Bartoks opera BLUEBEARDS CASTLE, collage on board. Image courtesy of Professor William Fregosi." text="Designs by Gabrielle (Brie) Frame 05 for Bela Bartoks opera BLUEBEARDS CASTLE, collage on board." >}}
 {{< image-gallery-item href="e3d9551e6dc18aa67ca7237b6a77b39d_3.jpg" data-ngdesc="Designs by Gabrielle (Brie) Frame 05 for Bela Bartoks opera BLUEBEARDS CASTLE, collage on board. Image courtesy of Professor William Fregosi." text="Designs by Gabrielle (Brie) Frame 05 for Bela Bartoks opera BLUEBEARDS CASTLE, collage on board." >}}
