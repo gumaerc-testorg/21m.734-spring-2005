@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-734-design-for-the-theater-scenery-spring-2005/2211def849cecf3b32c2207cb2cbb19d_hineltiresias.jpg
+file_size: 15543
 file_type: image/jpeg
 image_metadata:
   caption: ''
