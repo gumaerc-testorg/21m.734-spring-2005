@@ -1,17 +1,17 @@
 ---
 content_type: page
 description: This section contains links to various theater resources on the internet.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: e9121a74-b214-c5d1-67a3-edae984ef006
 ---
-
-The following are URLs to various theater resources on the internet:
+Various theater resources on the internet:
 
 [The Society of British Theater Designers](http://www.theatredesign.org.uk/)
 
-[Guide to the American Stage Designs slides, 1850-1950](http://digilib.nypl.org/dynaweb/ead/nypl/thesanda)
+[Guide to the American Stage Designs slides, 1850-1950 (PDF)](https://www.nypl.org/sites/default/files/archivalcollections/pdf/theamerstage.pdf)
 
 [The International Theatre Design Archive](http://www.siue.edu/ITDA/)
 
@@ -22,7 +22,5 @@ The following are URLs to various theater resources on the internet:
 [Brief Guide to Internet Resources in Theatre and Performance Studies](http://www2.stetson.edu/creative-arts/resources/theatre-arts/mccoy-theatre-guide.html)
 
 [Stage Directions](http://www.stage-directions.com/)
-
-Drawings
 
 [Backstage World](http://www.stagelight.se/backstage/)
