@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-734-design-for-the-theater-scenery-spring-2005/f41aaed0ab9c54e3fb91a3ced590f1d2_miracle_worker.jpg
+file: /ol-ocw-studio-app/courses/21m-734-design-for-the-theater-scenery-spring-2005/f41aaed0ab9c54e3fb91a3ced590f1d2_miracle_worker.jpg
 file_size: 20222
 file_type: image/jpeg
 image_metadata:
