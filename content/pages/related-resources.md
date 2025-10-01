@@ -9,18 +9,18 @@ uid: e9121a74-b214-c5d1-67a3-edae984ef006
 ---
 Various theater resources on the internet:
 
-[The Society of British Theater Designers](http://www.theatredesign.org.uk/)
+{{% resource_link "ab77cc6a-87f8-4fc5-ba7b-adf81fe95576" "The Society of British Theater Designers" %}}
 
-[Guide to the American Stage Designs slides, 1850-1950 (PDF)](https://www.nypl.org/sites/default/files/archivalcollections/pdf/theamerstage.pdf)
+{{% resource_link "c1e63c0c-0289-4fb1-b7f0-5ad09fb07a30" "Guide to the American Stage Designs slides, 1850-1950 (PDF)" %}}
 
-[The International Theatre Design Archive](http://www.siue.edu/ITDA/)
+{{% resource_link "04a9cfe4-9f97-4691-8f5e-fa7515f63f2e" "The International Theatre Design Archive" %}}
 
-[Artslynx International Arts Resources: Theater Resources](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/theatre_journal/v051/51.4blood.html)
+{{% resource_link "66bf197e-a167-40bd-819c-dbbaf98374d1" "Artslynx International Arts Resources: Theater Resources" %}}
 
-[Glossary of Technical Theater Terms](http://www.theatrecrafts.com/glossary/glossary.shtml)
+{{% resource_link "9a90fc52-bf7e-475a-9d29-4dffd1824cb7" "Glossary of Technical Theater Terms" %}}
 
-[Brief Guide to Internet Resources in Theatre and Performance Studies](http://www2.stetson.edu/creative-arts/resources/theatre-arts/mccoy-theatre-guide.html)
+{{% resource_link "f662c284-8358-47ac-97b9-f16ade104e6e" "Brief Guide to Internet Resources in Theatre and Performance Studies" %}}
 
-[Stage Directions](http://www.stage-directions.com/)
+{{% resource_link "89d1f893-92b6-45f7-a4a6-3c56fbe60da6" "Stage Directions" %}}
 
-[Backstage World](http://www.stagelight.se/backstage/)
+{{% resource_link "ae1cb35c-9c58-4b6f-92a1-9ba130d0111b" "Backstage World" %}}
