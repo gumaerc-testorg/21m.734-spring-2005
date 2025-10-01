@@ -9,7 +9,7 @@ title: Readings
 uid: f170f17b-e3c4-16b7-afb7-f2089c91a552
 ---
 
-Strindberg, August. [_The Father_](http://www.theatrehistory.com/misc/august_strindberg_002.html).
+Strindberg, August. {{% resource_link "5b384dc4-036b-4f26-afed-d329819b7302" "_The Father_" %}}.
 
 ———. _Strindberg: Five Plays_. Berkeley, CA: University of California Press, 1983. ISBN: 9780520046986.
 
@@ -23,6 +23,6 @@ O'Neill, Eugene. _Long Day's Journey Into The Night._ (Completed in 1940.) New H
 
 Bartok, Bela (Text by Bela Balazs). _Bluebeard's Castle._ (One Act Opera.)
 
-Mascagni, Pietro (Text by Giovanni Targioni-Tozzetti). [_Cavalleria Rusticana_](http://www.thegodfathertrilogy.com/gf3/cav.html). (One Act Opera.)
+Mascagni, Pietro (Text by Giovanni Targioni-Tozzetti). {{% resource_link "0c60290f-48ed-4846-be08-64c9e2a344ee" "_Cavalleria Rusticana_" %}}. (One Act Opera.)
 
-Strauss, Richard (Text by Hugo Von Hofmannsthal). [_Die Frau Ohne Schatten_](https://www.staatsoper-berlin.de/en/veranstaltungen/die-frau-ohne-schatten.16/)_._ (Act one of the Opera only.)
+Strauss, Richard (Text by Hugo Von Hofmannsthal). {{% resource_link "bec71bc6-3274-45ff-be3b-87cf8de63acf" "_Die Frau Ohne Schatten_" %}}_._ (Act one of the Opera only.)
